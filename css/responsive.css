@@ -13,9 +13,6 @@
      overflow-x: hidden;
     }
 
-          img, video, .container {
-        max-width: 100%;
-      }
     }
  /* =============================
     GLOBAL NAVIGATION STYLES
