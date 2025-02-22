@@ -11,9 +11,9 @@
   
     body {
      overflow-x: hidden;
+     
     }
-
-    }
+   }
  /* =============================
     GLOBAL NAVIGATION STYLES
     ============================= */
@@ -50,6 +50,7 @@
          padding: 50px 0;
          text-align: center;
          position: relative;
+     
      }
  
      .logo-link {
@@ -211,7 +212,7 @@
      .three-grid-main-content {
          width: 100%;
          height: auto;
-         overflow-x: hidden;
+
          
      }
  }
