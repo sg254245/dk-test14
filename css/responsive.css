@@ -2,10 +2,18 @@
    DK RAP SONG CSS DOCUMENT - UPDATED 2025 - Responsive Design 
    ============================= */
   
-  html,body {
-   overflow-x: hidden;
-
+   @media screen and (max-width: 1020px) {
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+ 
+   html, body {
+    overflow-x: hidden;
+   }
+   }
+/* ==
 /* =============================
    GLOBAL NAVIGATION STYLES
    ============================= */
