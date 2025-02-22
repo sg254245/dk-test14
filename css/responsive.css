@@ -13,12 +13,6 @@
     overflow-x: hidden;
    }
    }
-
- 
-   *, *::before, *::after {
-    box-sizing: border-box;
-  }
-
 /* =============================
    GLOBAL NAVIGATION STYLES
    ============================= */
