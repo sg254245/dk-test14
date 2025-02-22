@@ -2,11 +2,10 @@
    DK RAP SONG CSS DOCUMENT - UPDATED 2025 - Responsive Design 
    ============================= */
   
+  html,body {
+   overflow-x: hidden;
 
-    html{
-        overflow-x: hidden;
-    }
-
+}
 /* =============================
    GLOBAL NAVIGATION STYLES
    ============================= */
