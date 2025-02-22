@@ -43,7 +43,6 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        background: #ff7252 !important; /* Tablet background color */
         z-index: 1000;
         height: auto;
         padding: 50px 0;
